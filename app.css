@@ -1,0 +1,26 @@
+.ok{
+    height: 250px;
+    width: 400px;
+    border: solid black;
+}
+.a{
+    height: 110px;
+    width: 400px;
+    background-color: #ed1c24;
+}
+.b{
+    height: 30px;
+    width: 400px;
+    background-color: #ffffff;
+}
+.c{
+    height: 110px;
+    width: 400px;
+    background-color: #ed1c24;
+}
+.d{
+    height: 250px;
+    width: 40px;
+    background-color: #ffffff;
+    margin-left: 80px;
+}
